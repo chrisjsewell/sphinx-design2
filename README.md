@@ -12,7 +12,7 @@ Created with inspiration from [Bootstrap](https://getbootstrap.com/) (v5), [Mate
 
 ## Usage
 
-Simply pip install `sphinx-design` and add the extension to your `conf.py`:
+Simply pip install `sphinx-design2` and add the extension to your `conf.py`:
 
 ```python
 extensions = ["sphinx_design"]
@@ -28,16 +28,6 @@ extensions = ["sphinx_design"]
 - Explorer >= 12
 
 (Mirrors: <https://github.com/twbs/bootstrap/blob/v5.0.2/.browserslistrc>)
-
-## Theme support
-
-View the documentation in multiple themes:
-
-- [alabaster](https://sphinx-design.readthedocs.io/en/alabaster-theme)
-- [sphinx-book-theme](https://sphinx-design.readthedocs.io/en/sbt-theme)
-- [pydata-sphinx-theme](https://sphinx-design.readthedocs.io/en/pydata-theme)
-- [sphinx-rtd-theme](https://sphinx-design.readthedocs.io/en/rtd-theme)
-- [furo](https://sphinx-design.readthedocs.io/en/furo-theme)
 
 ## Comparison to sphinx-panels
 

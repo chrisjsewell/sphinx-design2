@@ -29,6 +29,7 @@ extensions = ["sphinx_design"]
 
 (Mirrors: <https://github.com/twbs/bootstrap/blob/v5.0.2/.browserslistrc>)
 
+
 ## Comparison to sphinx-panels
 
 This package is an iteration on [sphinx-panels](https://github.com/executablebooks/sphinx-panels) and intends to replace it.

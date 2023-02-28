@@ -12,7 +12,7 @@ Created with inspiration from [Bootstrap](https://getbootstrap.com/) (v5), [Mate
 
 ## Usage
 
-Simply pip install `sphinx-design` and add the extension to your `conf.py`:
+Simply pip install `sphinx-design2` and add the extension to your `conf.py`:
 
 ```python
 extensions = ["sphinx_design"]
@@ -28,16 +28,6 @@ extensions = ["sphinx_design"]
 - Explorer >= 12
 
 (Mirrors: <https://github.com/twbs/bootstrap/blob/v5.0.2/.browserslistrc>)
-
-## Theme support
-
-View the documentation in multiple themes:
-
-- [alabaster](https://sphinx-design.readthedocs.io/en/alabaster-theme)
-- [sphinx-book-theme](https://sphinx-design.readthedocs.io/en/sbt-theme)
-- [pydata-sphinx-theme](https://sphinx-design.readthedocs.io/en/pydata-theme)
-- [sphinx-rtd-theme](https://sphinx-design.readthedocs.io/en/rtd-theme)
-- [furo](https://sphinx-design.readthedocs.io/en/furo-theme)
 
 ## Comparison to sphinx-panels
 
@@ -77,9 +67,9 @@ subtitle for card (see <https://material.io/components/cards#anatomy>)
 rtd PRs not working
 
 
-[github-ci]: https://github.com/chrisjsewell/sphinx-design2/workflows/continuous-integration/badge.svg?branch=main
-[github-link]: https://github.com/chrisjsewell/sphinx-design2
-[codecov-badge]: https://codecov.io/gh/chrisjsewell/sphinx-design2/branch/main/graph/badge.svg
-[codecov-link]: https://codecov.io/gh/chrisjsewell/sphinx-design2
+[github-ci]: https://github.com/sphinx-extensions2/sphinx-design2/workflows/continuous-integration/badge.svg?branch=main
+[github-link]: https://github.com/sphinx-extensions2/sphinx-design2
+[codecov-badge]: https://codecov.io/gh/sphinx-extensions2/sphinx-design2/branch/main/graph/badge.svg
+[codecov-link]: https://codecov.io/gh/sphinx-extensions2/sphinx-design2
 [pypi-badge]: https://img.shields.io/pypi/v/sphinx-design2.svg
 [pypi-link]: https://pypi.org/project/sphinx-design2
